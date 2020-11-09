@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pingjiang.medit.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pingjiang.medit.MyBundle
 
 class MyApplicationService {
 
